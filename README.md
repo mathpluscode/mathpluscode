@@ -6,6 +6,5 @@ In particular, we are monitoring the SARS-CoV-2 pandemic with the Early Warning 
 
 I am also a PhD student in the [Department of Medical Physics and Biomedical Engineering](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/) at University College London, under the supervision of [Associate Professor Yipeng Hu](https://iris.ucl.ac.uk/iris/browse/profile?upi=YHUXX66). My research interests focus on geometric deep learning in medical imaging. More about my research can be found at [google scholar](https://scholar.google.co.uk/citations?user=8Uicv-gAAAAJ&hl=en).
 
-<a href="#title">
-  <img src="https://github.com/mathpluscode/github-stats/blob/master/generated/overview.svg" alt="mathpluscode"/>
-</a>
+![](https://raw.githubusercontent.com/mathpluscode/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mathpluscode/github-stats/master/generated/overview.svg#gh-light-mode-only)
