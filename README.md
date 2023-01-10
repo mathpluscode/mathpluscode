@@ -1,5 +1,7 @@
 ### Hi, I'm Yunguan 👋
 
+> Update: BioNTech to acquire InstaDeep to strengthen pioneering position in the field of AI-powered drug discovery, design and development ([InstaDeep announcement](https://www.instadeep.com/2023/01/biontech-to-acquire-instadeep-to-strengthen-pioneering-position-in-the-field-of-ai-powered-drug-discovery-design-and-development/), [BioNTech announcement](https://investors.biontech.de/news-releases/news-release-details/biontech-acquire-instadeep-strengthen-pioneering-position-field))!
+
 > Update: Our latest work on **peptide-MHC protein structure prediction with graph neural network** is accepted at [NeurIPS Machine Learning in Structural Biology Workshop](https://www.mlsb.io/)! Check the [poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/59015.png?t=1668101005.7173755) and [paper](https://www.biorxiv.org/content/10.1101/2022.11.23.517618v1)!
 
 I am a senior research engineer from the Department of BioAI at [InstaDeep](https://www.instadeep.com/), currently managing multiple R&D teams for bioinformatics projects in collaboration with [BioNTech](https://www.biontech.com).
