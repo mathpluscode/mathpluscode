@@ -9,6 +9,3 @@ In particular, we are monitoring the SARS-CoV-2 pandemic with the Early Warning 
 **I am actively hiring [Senior Research Engineer](https://instadeep.bamboohr.com/jobs/view.php?id=253), [Research Engineer](https://instadeep.bamboohr.com/jobs/view.php?id=267), and [Computational Biologist](https://instadeep.bamboohr.com/jobs/view.php?id=262) in London.**
 
 I am also a PhD student and [Honorary Research Assistant](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/people/honorary-staff) from the [Department of Medical Physics and Biomedical Engineering](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/) at University College London, under the supervision of [Associate Professor Yipeng Hu](https://iris.ucl.ac.uk/iris/browse/profile?upi=YHUXX66). My research interests focus on geometric deep learning in medical imaging. More about my research can be found at [google scholar](https://scholar.google.co.uk/citations?user=8Uicv-gAAAAJ&hl=en).
-
-![](https://raw.githubusercontent.com/mathpluscode/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mathpluscode/github-stats/master/generated/overview.svg#gh-light-mode-only)
