@@ -1,5 +1,7 @@
 ### Hi, I'm Yunguan 👋
 
+> Update: Our paper "Progressive loss of conserved spike protein neutralizing antibody sites in Omicron sublineages is balanced by preserved T cell immunity" is now published in [Cell Reports](https://doi.org/10.1016/j.celrep.2023.112888)!
+
 I am a senior research engineer from the Department of BioAI at [InstaDeep](https://www.instadeep.com/) ([now part of BioNTech](https://www.instadeep.com/2023/07/biontech-completes-acquisition-of-instadeep/)), currently managing multiple R&D teams for bioinformatics projects.
 In particular, we are monitoring the SARS-CoV-2 pandemic with the Early Warning System ([Paper](https://www.biorxiv.org/content/10.1101/2021.12.24.474095v2](https://www.sciencedirect.com/science/article/pii/S0010482523000835))).
 
