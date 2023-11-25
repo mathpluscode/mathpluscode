@@ -4,7 +4,7 @@
 
 > :star2: We have two papers [LightMHC: A Light Model for pMHC Structure Prediction with Graph Neural Networks](https://www.biorxiv.org/content/10.1101/2023.11.21.568015v1) and [FrameDiPT: SE(3) Diffusion Model for Protein Structure Inpainting](https://www.biorxiv.org/content/10.1101/2023.11.21.568057v1) being accepted at [NeurIPS 2023 Machine Learning in Structural Biology Workshop](https://www.mlsb.io/)!
 
-I am a senior research engineer from the Department of BioAI at [InstaDeep](https://www.instadeep.com/) ([now part of BioNTech](https://www.instadeep.com/2023/07/biontech-completes-acquisition-of-instadeep/)), currently managing multiple R&D teams for bioinformatics projects. In particular, we are monitoring the SARS-CoV-2 pandemic with the [Early Warning System](https://www.sciencedirect.com/science/article/pii/S0010482523000835).
+I am a senior research engineer from the Department of BioAI at [InstaDeep](https://www.instadeep.com/) ([now part of BioNTech](https://www.instadeep.com/2023/07/biontech-completes-acquisition-of-instadeep/)), currently managing multiple R&D teams for bioinformatics projects. In particular, we are monitoring the SARS-CoV-2 pandemic with the [Early Warning System](https://www.sciencedirect.com/science/article/pii/S0010482523000835). I am currently hiring [(senior) research engineers](https://www.instadeep.com/job-offer/8c0fb936-61b0-4569-acbf-cfefa05c3a61/) and [ML software engineers](https://www.instadeep.com/job-offer/d94bd2e9-5862-4af0-9568-c97d6265a741/).
 
 #### @UCL
 
