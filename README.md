@@ -2,11 +2,6 @@
 
 ### @InstaDeep @BioNTech
 
-> [!TIP]
-> I am currently hiring the following roles  at InstaDeep London and Paris offices:
-> - [(Senior) Research Engineers](https://www.instadeep.com/job-offer/8c0fb936-61b0-4569-acbf-cfefa05c3a61/)
-> - [ML Software Engineers](https://www.instadeep.com/job-offer/d94bd2e9-5862-4af0-9568-c97d6265a741/)
-
 > [!NOTE]
 > We have two papers accepted at [NeurIPS 2023 Machine Learning in Structural Biology Workshop](https://www.mlsb.io/)!
 > 
