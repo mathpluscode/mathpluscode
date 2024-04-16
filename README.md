@@ -8,7 +8,7 @@
 > - LightMHC: A Light Model for pMHC Structure Prediction with Graph Neural Networks ([paper](https://www.biorxiv.org/content/10.1101/2023.11.21.568015v1), [code](https://github.com/instadeepai/LightMHC))
 > - FrameDiPT: SE(3) Diffusion Model for Protein Structure Inpainting ([paper](https://www.biorxiv.org/content/10.1101/2023.11.21.568057v1), [code](https://github.com/instadeepai/FrameDiPT))
 
-I am a senior research engineer from the Department of BioAI at [InstaDeep](https://www.instadeep.com/) ([now part of BioNTech](https://www.instadeep.com/2023/07/biontech-completes-acquisition-of-instadeep/)), currently managing multiple R&D teams for bioinformatics projects. In particular, we are monitoring the SARS-CoV-2 pandemic with the [Early Warning System](https://www.sciencedirect.com/science/article/pii/S0010482523000835).
+I am a senior research engineer from the Department of BioAI at [InstaDeep](https://www.instadeep.com/) ([now part of BioNTech](https://www.instadeep.com/2023/07/biontech-completes-acquisition-of-instadeep/)), currently managing multiple R&D teams for bioinformatics projects.
 
 ### @UCL
 
