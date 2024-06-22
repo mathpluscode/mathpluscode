@@ -9,7 +9,7 @@
 ### @InstaDeep @BioNTech
 
 > [!NOTE]
-> I am hiring [data scientist](https://www.instadeep.com/job-offer/7212d1ab-c33e-45f6-ab2e-182c22539217/) and [senior research engineer](https://www.instadeep.com/job-offer/989646ef-7450-465f-88bb-d41ac739f8ad/) with bioinformatics background to design proteins through lab experiments 🧪
+> I am hiring [senior research engineer](https://www.instadeep.com/job-offer/989646ef-7450-465f-88bb-d41ac739f8ad/) with bioinformatics background to design proteins through lab experiments 🧪
 >
 > I was invited to give a flash talk at the [Hinxton Immunogenomics Day](https://sites.google.com/view/hinxton-immunogenomics-2024/) on "FrameDiPT: SE(3) Diffusion Model for Protein Structure Inpainting" ([paper](https://www.biorxiv.org/content/10.1101/2023.11.21.568057v2), [code](https://github.com/instadeepai/FrameDiPT)).
 
